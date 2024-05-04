@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shravanch19
 - 👀 I’m interested in Exploring, Keep Improving & being Aadyatmik.
-- 🌱 I’m currently learning DSA , Data Science , DBMS.
+- 🌱 I’m currently learning DSA , Data Science , DBMS, Web Devlopment.
 - 💞️ I’m looking to collaborate on a podcast.
 - 📫 How to reach me Insta - shravanchaturvdi19
 - 😄 Pronouns: SKC
