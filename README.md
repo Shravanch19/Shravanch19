@@ -1,4 +1,4 @@
-# Hey there, I'm [Your Name] 👋
+# Hey there, I'm Shravan Chaturvedi 👋
 
 Welcome to my digital workspace! I'm a **Full Stack Developer**, **BCA (Data Science) Student at GLA University**, and a passionate **tech explorer** who’s always curious, always learning, and always building.
 
